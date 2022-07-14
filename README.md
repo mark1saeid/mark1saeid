@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working FYB<br>👯 I’m looking to collaborate on AR Platform<br>🌱 I’m currently learning DevOps , Automated Testing<br>💬 Ask me about Flutter ,Laravel, DeepLearning<br>
+🔭 I’m currently working on FYB<br>👯 I’m looking to collaborate on AR Platform<br>🌱 I’m currently learning DevOps , Automated Testing<br>💬 Ask me about Flutter ,Laravel, DeepLearning<br>
 
 
 ## 🌐 Socials:
