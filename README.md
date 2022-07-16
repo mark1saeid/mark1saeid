@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on FYB<br>👯 I’m looking to collaborate on AR Platform<br>🌱 I’m currently learning DevOps , Automated Testing<br>💬 Ask me about Flutter ,Laravel, Computer Vision<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mark.saeid.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mark1saeid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark1saeid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mark1saeid) 
 
